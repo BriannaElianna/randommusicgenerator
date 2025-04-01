@@ -1,0 +1,10 @@
+body {
+    background-color: lightskyblue;
+    text-align:center;
+}
+.Header {
+    margin-bottom: 20px;
+}
+h1 {
+    color: blue;
+}
